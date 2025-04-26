@@ -1,0 +1,16 @@
+# Visual Studio C++ folders
+Debug/
+Release/
+.vs/
+*.VC.db
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.log
+
+# Compiled files
+*.exe
+*.obj
+*.pch
+*.pdb
