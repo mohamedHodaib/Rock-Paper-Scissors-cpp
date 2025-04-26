@@ -33,9 +33,9 @@ This project was created to practice control structures, randomization, and basi
 ## 🛠️ How to Run This Project
 #option 1:
 1. **Clone the repository**:
-   ```
-   git clone https://github.com/your-username/tic-tac-toe-winforms.git
-   ```
+ 
+   git clone https://github.com/mohamedHodaib/Rock-Paper-Scissors-cpp.git
+ 
 
 2. **Open the solution**:
    - Navigate to the project folder  
